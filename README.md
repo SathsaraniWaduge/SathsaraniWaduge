@@ -15,7 +15,7 @@
 <td width="50%" align="left">
   
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology Specializing in Software Engineering**
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m am Undergraduate at **SLIIT**
 - 📝 I regularly write articles on [http://medium.com/@vsathsarani9](http://medium.com/@vsathsarani9)
 - 💬 Ask me about **Java ,C++, C ,JavaScript ,PHP,CSS**
 - 📫 How to reach me **vsathsarani9@gmail.com**
